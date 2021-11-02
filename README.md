@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ozgenezgi/ozgenezgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student 👨‍🎓, at ITU. I am studying in the department of mathematical engineering🎓!
+- 🌱 I’m currently learning  🤖
+- ⚡ I love caving, Caving is a nature sport. We are the first to see places where no one has set foot. and I love cycling 🚴‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I love working in the field of data science.
+
+Contact me
+
+[linkedin] : https://www.linkedin.com/in/ezgi-özgen-535488162/
+
+
+[E-mail] : ozgenn.ezgi@gmail.com
