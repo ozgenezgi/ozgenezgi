@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  🤖
 - ⚡ I love caving, Caving is a nature sport. We are the first to see places where no one has set foot. and I love cycling 🚴‍♀️
 
-- 💬 I love working in the field of data science.
+
 
 Contact me
 
