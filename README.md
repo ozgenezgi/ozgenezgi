@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I'm a Student 👨‍🎓, at ITU. I am studying in the department of mathematical engineering🎓!
+#### I graduated 👨‍🎓, at ITU. I am working as a Big Data Engineer.
 
 
 
